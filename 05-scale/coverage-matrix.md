@@ -1,24 +1,29 @@
-# Module 5 · Coverage Matrix · [product]
-
-Paste the markdown from the Module 5 Lab Guide over this file, or upload the downloaded `coverage-matrix.md` in its place, then commit.
+# Module 5 · Coverage Matrix · AI Voice Agent
 
 ## Coverage Row
 
 | Product | Hallucination Rate | Fairness | Latency | UX Trust | Robustness |
 |---|---|---|---|---|---|
+| AI Voice Agent | ⚠️ Partial | ✅ Covered | ❌ Gap | ✅ Covered | ⚠️ Partial |
 
 ## What Runs Today
 
-_The checks that run on your product today._
+- An eval gate tests its answers to 300 billing questions before every release.
+- A supervisor listens to 10 random calls a week for tone.
+- A drift monitor alerts when callers start asking about things the agent wasn’t tested on.
 
 ## Accepted Gap
 
-_The ❌ you can live with for now, why, and what would make you change your mind._
+**Latency.** The response time when people are on the phone varies and people expect to wait on the phone, so a little more time will not affect user experience
+
+We’ll look again: If the user drops the call or hangs up because they are waiting too long for a response.
 
 ## Critical Gap
 
-_The ❌ you'd close first, why, and the check that would close it._
+We’ve flagged Latency as the most critical gap for AI Voice Agent because we saw an increase in dropped calls or customer hanging up due to unresponsiveness from the agent
 
 ## After the Pressure Test
 
-_What the feedback changed, or why you kept your answers._
+Fairness should be changed because people's accents may affect how the agent responds to questions and may give the wrong answer or inaccurate information. Quality is of the most important feature of the agent.
+
+UX Trust is covered because it is not applicable as these are actual phone calls and not on a screen unless we are judging the whole user journey during the call. If that is the case, then UX needs to be partial because each user journey is different and only 10 random checks will likely miss edge cases.
