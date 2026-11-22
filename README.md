@@ -2,7 +2,11 @@
 
 My final project for Product School's **AI Evals** certification. One evaluation system for a real LLM feature, from strategy, through failure discovery and an automated eval suite, to the gates and governance that let it ship safely.
 
+## Final presentation
 
+**[▶ View the final presentation](https://raw.githack.com/askeladden00/AI-Evals/main/06-culture/final-presentation.html)**: *Ascend IQ: Hold with Conditions* (source: [`06-culture/final-presentation.html`](06-culture/final-presentation.html))
+
+> Ascend IQ isn't ready to launch, because its 45% hallucination rate is nine times the limit our hard gate allows, and that alone blocks the release.
 
 ---
 
@@ -20,6 +24,7 @@ My final project for Product School's **AI Evals** certification. One evaluation
 | M5 | **Coverage matrix** | ☐ | `05-scale/coverage-matrix.md` |
 | M5 | **Eval budget** | ☐ | `05-scale/eval-budget.md` |
 | M6 | **Ship-or-hold memo** | ☐ | `06-culture/ship-hold-memo.md` |
+| Final | **Final presentation** | ☑ | [`06-culture/final-presentation.html`](06-culture/final-presentation.html) |
 
 ## The feature in one sentence
 
@@ -70,5 +75,6 @@ ai-evals/
 │   ├── coverage-matrix.md            coverage across product lines
 │   └── eval-budget.md                eval budget + trade-offs
 └── 06-culture/                       ← Module 6
-    └── ship-hold-memo.md             ship-or-hold recommendation
+    ├── ship-hold-memo.md             ship-or-hold recommendation
+    └── final-presentation.html       final project presentation
 ```
