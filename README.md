@@ -2,9 +2,7 @@
 
 > My final project for Product School's **AI Evals** certification. One evaluation system for a real LLM feature, from strategy, through failure discovery and an automated eval suite, to the gates and governance that let it ship safely.
 
-This is a **template repo**. Click **Use this template → Create a new repository**, name it `ai-evals` (or `<your-feature>-evals`), and fill in one folder per module as you go. The repo URL is your submission.
 
-> **Tools & cost.** No eval platform, no signup, no credit card, and no code. Every lab runs in any chat, such as ChatGPT, Claude or Gemini, and the Lab Guide for each module gives you the prompts. Prefer a dashboard? LangSmith, Braintrust or Phoenix are optional.
 
 ---
 
