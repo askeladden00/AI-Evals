@@ -14,16 +14,16 @@ My final project for Product School's **AI Evals** certification. One evaluation
 
 | Module | Artifact | Status | File |
 |---|---|---|---|
-| M1 | **Evaluation Strategy Canvas** | ☐ | `01-evaluation-strategy/strategy-canvas.md` |
-| M2 | **Failure audit log** | ☐ | `02-failure-discovery/audit-log.md` |
-| M2 | **Failure Taxonomy** | ☐ | `02-failure-discovery/failure-taxonomy.md` |
-| M3 | **Eval suite** (three checks and their results) | ☐ | `03-eval-suites/eval-suite.md` |
-| M3 | **Eval spec** (five parts and three team messages) | ☐ | `03-eval-suites/eval-spec.md` |
-| M4 | **Eval gate map** (gate level × placement) | ☐ | `04-eval-gates/gate-map.md` |
-| M4 | **Launch strategy** (release criteria + mitigation) | ☐ | `04-eval-gates/launch-strategy.md` |
-| M5 | **Coverage matrix** | ☐ | `05-scale/coverage-matrix.md` |
-| M5 | **Eval budget** | ☐ | `05-scale/eval-budget.md` |
-| M6 | **Ship-or-hold memo** | ☐ | `06-culture/ship-hold-memo.md` |
+| M1 | **Evaluation Strategy Canvas** | ☑ | `01-evaluation-strategy/strategy-canvas.md` |
+| M2 | **Failure audit log** | ☑ | `02-failure-discovery/audit-log.md` |
+| M2 | **Failure Taxonomy** | ☑ | `02-failure-discovery/failure-taxonomy.md` |
+| M3 | **Eval suite** (three checks and their results) | ☑ | `03-eval-suites/eval-suite.md` |
+| M3 | **Eval spec** (five parts and three team messages) | ☑ | `03-eval-suites/eval-spec.md` |
+| M4 | **Eval gate map** (gate level × placement) | ☑ | `04-eval-gates/gate-map.md` |
+| M4 | **Launch strategy** (release criteria + mitigation) | ☑ | `04-eval-gates/launch-strategy.md` |
+| M5 | **Coverage matrix** | ☑ | `05-scale/coverage-matrix.md` |
+| M5 | **Eval budget** | ☑ | `05-scale/eval-budget.md` |
+| M6 | **Ship-or-hold memo** | ☑ | `06-culture/ship-hold-memo.md` |
 | Final | **Final presentation** | ☑ | [`06-culture/final-presentation.html`](06-culture/final-presentation.html) |
 
 ## The feature in one sentence
